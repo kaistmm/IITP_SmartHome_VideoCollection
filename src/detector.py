@@ -1,3 +1,5 @@
+# Person detection using YOLO object detection model.
+
 class Detector:
     def __init__(self, model_path='yolov8s.pt'):
         self.model = self.load_model(model_path)
