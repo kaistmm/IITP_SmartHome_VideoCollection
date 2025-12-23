@@ -1,3 +1,5 @@
+# Main entry point for the person detection based automated video collection system.
+
 import os
 import time
 from .config import (
