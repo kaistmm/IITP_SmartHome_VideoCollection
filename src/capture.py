@@ -1,3 +1,5 @@
+# Video stream capture and connection management with automatic reconnection.
+
 import cv2
 import time
 
