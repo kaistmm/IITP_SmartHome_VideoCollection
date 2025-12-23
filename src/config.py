@@ -1,4 +1,4 @@
-# Configuration variables for the YOLO RTSP Recorder
+# Configuration variables for the video collection framework
 
 STREAM_URL = "rtsp://~"      # RTSP stream URL (to be filled with actual URL)
 CHECK_INTERVAL = 0.05        # Interval to check for detections
