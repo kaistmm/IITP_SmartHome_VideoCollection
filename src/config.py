@@ -1,6 +1,6 @@
 # Configuration variables for the YOLO RTSP Recorder
 
-STREAM_URL = "rtsp://~"
+STREAM_URL = "rtsp://~"      # RTSP stream URL (to be filled with actual URL)
 CHECK_INTERVAL = 0.05        # Interval to check for detections
 NO_DETECT_TIMEOUT = 1.0      # Timeout for no detection before stopping recording
 MAX_LENGTH = 600.0           # Maximum recording length in seconds (10 minutes)
