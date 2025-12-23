@@ -33,4 +33,4 @@ _default_log_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..",
 os.makedirs(_default_log_dir, exist_ok=True)
 _default_log_file = os.path.join(_default_log_dir, "app.log")
 
-logger = setup_logger('yolo_rtsp_recorder', _default_log_file)
+logger = setup_logger('video_collector', _default_log_file)
