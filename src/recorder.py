@@ -1,3 +1,5 @@
+# Video recording and file management with chunk rotation and session control.
+
 import os
 import time
 from datetime import datetime
