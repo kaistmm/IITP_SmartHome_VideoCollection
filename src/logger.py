@@ -1,3 +1,5 @@
+# Logging configuration and setup for centralized application logging.
+
 import logging
 import os
 
