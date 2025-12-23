@@ -1,3 +1,5 @@
+# Utility functions for date/time formatting and directory operations.
+
 import os
 from datetime import datetime
 
