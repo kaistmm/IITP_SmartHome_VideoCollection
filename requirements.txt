@@ -1,7 +1,5 @@
 opencv-python
 torch
 ultralytics
-ffmpeg-python
-python-dotenv
 numpy
 ```
